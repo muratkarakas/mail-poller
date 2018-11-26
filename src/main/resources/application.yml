@@ -1,0 +1,1 @@
+poller.emails: '[{"email":"defne.ece.karakas@gmail.com","password":"***","fetchStrategy":"imapPollFlow"},{"email":"defne.ece.karakas@gmail.com","password":"***"},{"email":"3434testmail3434@gmail.com","password":"***","fetchStrategy":"imapIdleFlow"}]'
